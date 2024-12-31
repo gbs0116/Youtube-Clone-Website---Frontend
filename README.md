@@ -1,2 +1,18 @@
-# Youtube-Clone-Website---Frontend
-A front-end implementation of a YouTube clone focusing on responsive design using HTML and CSS, including techniques like Flexbox and Grid.
+
+# YouTube Clone Front-End
+This project is a part of a step-by-step HTML and CSS course to practice modern web design. The focus is on replicating the YouTube interface while learning foundational and advanced web development concepts.
+
+## Features
+- **Responsive Design**: Built using Flexbox and Grid for scalable layouts.
+- **Reusable Styles**: Organized CSS files for general styling, headers, and video components.
+- **Visual Assets**: Includes channel pictures and icons for a realistic interface.
+
+## Project Files
+- **HTML**: Multiple files demonstrating various techniques (`flexbox.html`, `grid.html`, etc.).
+- **CSS**: Modular styles in the `styles` folder for clean and maintainable code.
+- **Assets**: Folders for icons and channel pictures.
+
+## Getting Started
+To view the project:
+1. Clone this repository: `git clone https://github.com/yourusername/Youtube-Clone-Frontend.git`
+2. Open `yotube.html` in a browser to see the current YouTube clone interface.
