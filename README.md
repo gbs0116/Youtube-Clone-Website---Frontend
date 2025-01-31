@@ -3,8 +3,8 @@
 This project is a part of a step-by-step HTML and CSS course to practice modern web design. The focus is on replicating the YouTube interface while learning foundational and advanced web development concepts.
 
 ## Features
-- **Responsive Design**: Built using Flexbox and Grid for scalable layouts.
-- **Reusable Styles**: Organized CSS files for general styling, headers, and video components.
+- **Static UI Layout**: Built using Flexbox and Grid for scalable layouts.
+- **Modular Styling**: Organized CSS files for general styling, headers, and video components.
 - **Visual Assets**: Includes channel pictures and icons for a realistic interface.
 
 ## Project Files
