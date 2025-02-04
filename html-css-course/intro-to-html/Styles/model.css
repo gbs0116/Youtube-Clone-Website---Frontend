@@ -1,0 +1,23 @@
+p {
+    font-family: Montserrat;
+    margin-top: 0;
+    margin-bottom: 0;
+    
+}
+
+.Title {
+    font-family: Montserrat;
+    font-weight: bold;
+    font-size: 45px;
+    margin-top: 0;
+    margin-bottom: 10px;
+    text-align: center;
+
+}
+
+.Description {
+    margin-top: 0;
+    margin-left: 250px;
+    
+
+}
