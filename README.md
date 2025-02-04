@@ -6,6 +6,8 @@ This project is a part of a step-by-step HTML and CSS course to practice modern 
 - **Static UI Layout**: Built using Flexbox and Grid for scalable layouts.
 - **Modular Styling**: Organized CSS files for general styling, headers, and video components.
 - **Visual Assets**: Includes channel pictures and icons for a realistic interface.
+- **Nested Layouts Technique**
+- **Position**
 
 ## Project Files
 - **HTML**: Multiple files demonstrating various techniques (`flexbox.html`, `grid.html`, etc.).
